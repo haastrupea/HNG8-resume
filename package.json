@@ -1,0 +1,28 @@
+{
+  "name": "haastrupea.github.io",
+  "version": "1.0.0",
+  "description": "my github page website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haastrupea/haastrupea.github.io.git"
+  },
+  "keywords": [
+    "personal",
+    "website",
+    "gitpage"
+  ],
+  "author": "haastrup elijah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haastrupea/haastrupea.github.io/issues"
+  },
+  "homepage": "https://github.com/haastrupea/haastrupea.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
